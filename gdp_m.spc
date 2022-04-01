@@ -17,9 +17,7 @@ regression{
     #aictest = ( td easter )
     #savelog = aictest
 }
-outlier{ 
-    types = ( AO LS )
-}
+
 arima{ 
     model = (0 1 [1 4 7])(0 1 1)
 }
