@@ -1,7 +1,4 @@
 # ******************************************************************************
-# Secretaria de Hacienda y Credito Publico
-# Unidad de Planeacion Economica de la Hacienda Publica
-# Direccion General de Analisis Macroeconomico
 # ------------------------------------------------------------------------------
 # Last edited:
 # ******************************************************************************
